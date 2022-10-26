@@ -1,5 +1,3 @@
-# memory-allocator
-
 # Assignment: Memory allocator
 
 ## Нулевое приближение
